@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/mobilesearch/!svn/ver/16873/src/backend/public_sentiment/emotion_analysis/nlp_recognition/models/short_text_classification/learner
+END
+liblinear_model
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/mobilesearch/!svn/ver/16873/src/backend/public_sentiment/emotion_analysis/nlp_recognition/models/short_text_classification/learner/liblinear_model
+END
+options.pickle
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/mobilesearch/!svn/ver/16873/src/backend/public_sentiment/emotion_analysis/nlp_recognition/models/short_text_classification/learner/options.pickle
+END
+idf.pickle
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/mobilesearch/!svn/ver/16873/src/backend/public_sentiment/emotion_analysis/nlp_recognition/models/short_text_classification/learner/idf.pickle
+END

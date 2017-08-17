@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/mobilesearch/!svn/ver/16081/src/backend/public_sentiment/emotion_analysis/nlp_recognition/data
+END
+baidu_hotdata_test.txt
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/mobilesearch/!svn/ver/16081/src/backend/public_sentiment/emotion_analysis/nlp_recognition/data/baidu_hotdata_test.txt
+END
+baidu_hotdata_t1.txt
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/mobilesearch/!svn/ver/16909/src/backend/public_sentiment/emotion_analysis/nlp_recognition/data/baidu_hotdata_t1.txt
+END
+baidu_hotdata_t2.txt
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/mobilesearch/!svn/ver/16909/src/backend/public_sentiment/emotion_analysis/nlp_recognition/data/baidu_hotdata_t2.txt
+END

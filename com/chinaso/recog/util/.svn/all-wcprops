@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/mobilesearch/!svn/ver/15929/src/backend/public_sentiment/emotion_analysis/nlp_recognition/com/chinaso/recog/util
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/mobilesearch/!svn/ver/15931/src/backend/public_sentiment/emotion_analysis/nlp_recognition/com/chinaso/recog/util/__init__.py
+END
+server.py
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/mobilesearch/!svn/ver/16894/src/backend/public_sentiment/emotion_analysis/nlp_recognition/com/chinaso/recog/util/server.py
+END

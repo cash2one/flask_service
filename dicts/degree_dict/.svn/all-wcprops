@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/mobilesearch/!svn/ver/15920/src/backend/public_sentiment/emotion_analysis/nlp_recognition/dicts/degree_dict
+END
+more.txt
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/mobilesearch/!svn/ver/15921/src/backend/public_sentiment/emotion_analysis/nlp_recognition/dicts/degree_dict/more.txt
+END
+most.txt
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/mobilesearch/!svn/ver/15921/src/backend/public_sentiment/emotion_analysis/nlp_recognition/dicts/degree_dict/most.txt
+END
+ish.txt
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/mobilesearch/!svn/ver/15921/src/backend/public_sentiment/emotion_analysis/nlp_recognition/dicts/degree_dict/ish.txt
+END
+very.txt
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/mobilesearch/!svn/ver/15921/src/backend/public_sentiment/emotion_analysis/nlp_recognition/dicts/degree_dict/very.txt
+END
+insufficiently.txt
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/mobilesearch/!svn/ver/15921/src/backend/public_sentiment/emotion_analysis/nlp_recognition/dicts/degree_dict/insufficiently.txt
+END
+inverse.txt
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/mobilesearch/!svn/ver/15921/src/backend/public_sentiment/emotion_analysis/nlp_recognition/dicts/degree_dict/inverse.txt
+END
+over.txt
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/mobilesearch/!svn/ver/15921/src/backend/public_sentiment/emotion_analysis/nlp_recognition/dicts/degree_dict/over.txt
+END

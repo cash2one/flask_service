@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/mobilesearch/!svn/ver/15920/src/backend/public_sentiment/emotion_analysis/nlp_recognition/dicts/emotion_dict
+END
+stop_words.txt
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/mobilesearch/!svn/ver/15922/src/backend/public_sentiment/emotion_analysis/nlp_recognition/dicts/emotion_dict/stop_words.txt
+END
+neg_all_dict.txt
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/mobilesearch/!svn/ver/15922/src/backend/public_sentiment/emotion_analysis/nlp_recognition/dicts/emotion_dict/neg_all_dict.txt
+END
+stopwords.txt
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/mobilesearch/!svn/ver/15922/src/backend/public_sentiment/emotion_analysis/nlp_recognition/dicts/emotion_dict/stopwords.txt
+END
+pos_all_dict.txt
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/mobilesearch/!svn/ver/15922/src/backend/public_sentiment/emotion_analysis/nlp_recognition/dicts/emotion_dict/pos_all_dict.txt
+END

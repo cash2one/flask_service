@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/mobilesearch/!svn/ver/16873/src/backend/public_sentiment/emotion_analysis/nlp_recognition/models/short_text_classification/converter
+END
+feat_gen.config.pickle
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/mobilesearch/!svn/ver/16873/src/backend/public_sentiment/emotion_analysis/nlp_recognition/models/short_text_classification/converter/feat_gen.config.pickle
+END
+text_prep.config.pickle
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/mobilesearch/!svn/ver/16873/src/backend/public_sentiment/emotion_analysis/nlp_recognition/models/short_text_classification/converter/text_prep.config.pickle
+END
+class_map.config.pickle
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/mobilesearch/!svn/ver/16873/src/backend/public_sentiment/emotion_analysis/nlp_recognition/models/short_text_classification/converter/class_map.config.pickle
+END
